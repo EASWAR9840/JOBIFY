@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955685039433",
+    "project_id": "jobify-b9c96",
+    "storage_bucket": "jobify-b9c96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955685039433:android:dbc21192478e3d6a617e98",
+        "android_client_info": {
+          "package_name": "com.example.jpbify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955685039433-29mk2na39afo8hqd2detn6mfmhh5o67s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_kYWjfLh45xpNyEOFxGjWsvrSrlniqq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955685039433-29mk2na39afo8hqd2detn6mfmhh5o67s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
