@@ -1,16 +1,10 @@
-# jpbify
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# jobify
+![jobify](https://user-images.githubusercontent.com/113098477/232984080-3dda0789-835c-4c92-8ede-4faf4d3f1f92.jpg)
+![login page](https://user-images.githubusercontent.com/113098477/232983539-e19db6fc-b729-4e78-9ed3-3b4c707f48d6.jpg)
+![profile](https://user-images.githubusercontent.com/113098477/232983679-82f834d9-2d60-4ec8-a1b2-ce36f2543459.jpg)
+![backend](https://user-images.githubusercontent.com/113098477/232983734-c97b449a-94b5-4f3f-a387-a5d382457217.jpg)
+![use_case](https://user-images.githubusercontent.com/113098477/232983646-443a473e-0c54-4840-afe2-c50a09d2314f.jpg)
+![sequence_diagram](https://user-images.githubusercontent.com/113098477/232983671-421f272b-90ce-4d5f-bb8a-b88c53cf41a5.jpg)
+![flow](https://user-images.githubusercontent.com/113098477/232983703-d74b9304-6da5-4b58-83fa-cb3d1f395bfc.jpg)
+![er_diagram](https://user-images.githubusercontent.com/113098477/232983753-5f9c2db1-cba1-44a8-afc6-bdbc80e07b89.jpg)
+![figma](https://user-images.githubusercontent.com/113098477/232984363-30702241-4fbe-4156-bacb-bf27b7966d3f.jpg)
